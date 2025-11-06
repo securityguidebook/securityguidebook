@@ -22,19 +22,19 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 |Log Analytics & KQL Querying in Cloud SOC	| Azure Honey Net SOC|
 |Endpoint Hardening & Cloud Security Controls	| Azure Honey Net SOC|
 |Azure Virtual Machine Provisioning & Security	| Azure VM Prep|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-|Advanced Network Threat Detection & Baseline Analytics| <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
-|Incident Scoping, Correlation & Enrichment	| <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
-|OSINT & Threat Intelligence Research           | <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
-|Agentic AI Integration for Automated Triage	| <a href="https://github.com/guidebruh/AI-Enhanced-SOC-Automation-Lab/tree/main">AI-Enhanced SOC Automation Lab</a>|
-|End-to-End Playbook Design (Detection → Response)|	<a href="https://github.com/guidebruh/AI-Enhanced-SOC-Automation-Lab/tree/main">AI-Enhanced SOC Automation Lab</a>|
-|Containerization & Image Vulnerability Management| <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
-|Static and Dynamic Application Security Testing| <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
-|CI/CD Pipeline Security Integration|	            <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
-|Threat Modeling & Risk-Based Remediation Decisions|	<a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/securityguidebook/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/securityguidebook/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/securityguidebook/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/securityguidebook/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+|Advanced Network Threat Detection & Baseline Analytics| <a href="https://github.com/securityguidebook/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
+|Incident Scoping, Correlation & Enrichment	| <a href="https://github.com/securityguidebook/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
+|OSINT & Threat Intelligence Research           | <a href="https://github.com/securityguidebook/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>|
+|Agentic AI Integration for Automated Triage	| <a href="https://github.com/securityguidebook/AI-Enhanced-SOC-Automation-Lab/tree/main">AI-Enhanced SOC Automation Lab</a>|
+|End-to-End Playbook Design (Detection → Response)|	<a href="https://github.com/securityguidebook/AI-Enhanced-SOC-Automation-Lab/tree/main">AI-Enhanced SOC Automation Lab</a>|
+|Containerization & Image Vulnerability Management| <a href="https://github.com/securityguidebook/Container-Security-Lab/tree/main">Container Security Lab</a>|
+|Static and Dynamic Application Security Testing| <a href="https://github.com/securityguidebook/Container-Security-Lab/tree/main">Container Security Lab</a>|
+|CI/CD Pipeline Security Integration|	            <a href="https://github.com/securityguidebook/Container-Security-Lab/tree/main">Container Security Lab</a>|
+|Threat Modeling & Risk-Based Remediation Decisions|	<a href="https://github.com/securityguidebook/Container-Security-Lab/tree/main">Container Security Lab</a>|
 |SQL for Security Event Analysis	Security | Incident Analysis Using SQL|
 |Active Directory User & Group Management	| ActiveDirectory Lab|
 |AD Security Policies & Permissions	| ActiveDirectory Lab|
@@ -100,10 +100,3 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-1E82C7?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
-
-## Projects
--  <a href="https://github.com/guidebruh/Detection-Lab/tree/main">Detection Lab</a>
--  <a href="https://github.com/guidebruh/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
--  <a href="https://github.com/guidebruh/SOC-Analyst-Investigation-Lab/tree/main">SOC Analyst Investigation Lab</a>
--  <a href="https://github.com/guidebruh/AI-Enhanced-SOC-Automation-Lab/tree/main">AI-Enhanced SOC Automation Lab</a>
--  <a href="https://github.com/guidebruh/Container-Security-Lab/tree/main">Container Security Lab</a>
