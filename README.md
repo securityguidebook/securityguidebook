@@ -95,13 +95,10 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20IT%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2%20CC-30334C?&style=for-the-badge&logo=ISC2&logoColor=white" />    
+<img src="https://img.shields.io/badge/-Google%20IT%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Vulnerability%20Management-0099D8?&style=for-the-badge&logo=qualys&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA-1E82C7?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ## Projects
