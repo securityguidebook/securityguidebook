@@ -16,10 +16,10 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Azure Honey Net SOC|
-| Azure VM Provisioning & Hardening | Azure VM Prep|
-|Active Directory Security & Administration	| Active Directory Lab|
-|Security Incident Analysis with SQL	| Security Incident Analysis Using SQL|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/securityguidebook/Azure-Honey-Net-SOC/tree/main">Azure Honey Net SOC</a>|
+| Azure VM Provisioning & Hardening | <a href="https://github.com/securityguidebook/Azure-VM-Prep-pt-1/tree/main">Azure VM Prep</a>|
+|Active Directory Security & Administration	| <a href="https://github.com/securityguidebook/Active-Directory-Lab">Active Directory Lab Using VirtualBox</a>|
+|Security Incident Analysis with SQL	| <a href="https://github.com/securityguidebook/Security-Incident-Analysis-using-SQL/tree/main">Security Incident Analysis using SQL</a>|
 |Log Analytics & KQL Querying | KQL Queries|
 
 
