@@ -20,7 +20,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 | Azure VM Provisioning & Hardening | <a href="https://github.com/securityguidebook/Azure-VM-Prep-pt-1/tree/main">Azure VM Prep</a>|
 |Active Directory Security & Administration	| <a href="https://github.com/securityguidebook/Active-Directory-Lab">Active Directory Lab Using VirtualBox</a>|
 |Security Incident Analysis with SQL	| <a href="https://github.com/securityguidebook/Security-Incident-Analysis-using-SQL/tree/main">Security Incident Analysis using SQL</a>|
-|Log Analytics & KQL Querying | KQL Queries|
+|Log Analytics & KQL Querying | <a href="https://github.com/securityguidebook/KQL-Queries">KQL Queries</a>|
 
 
 ## Tools
