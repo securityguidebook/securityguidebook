@@ -1,26 +1,63 @@
 @import "tailwindcss";
 
+/* ── Tailwind v4 theme tokens ── */
+@theme {
+  /* Fonts — CSS vars injected by next/font at runtime */
+  --font-mono:  var(--font-space-mono);
+  --font-bebas: var(--font-bebas-neue);
+
+  /* Brand palette */
+  --color-neon:  #39ff14;
+  --color-neon2: #2ecc10;
+  --color-base:  #080808;
+  --color-raised:#0f0f0f;
+  --color-card:  #161616;
+  --color-dim:   #888888;
+  --color-smoke: #f0f0f0;
+}
+
+/* ── CSS custom props for semi-transparent values ── */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --neon-border:    rgba(57, 255, 20, 0.15);
+  --neon-border-md: rgba(57, 255, 20, 0.25);
+  --neon-border-hi: rgba(57, 255, 20, 0.4);
+  --neon-glow:      0 0 12px rgba(57, 255, 20, 0.25);
+  --neon-glow-lg:   0 0 24px rgba(57, 255, 20, 0.35);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+/* ── Reset ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-space-mono, "Space Mono", monospace);
+  background: #080808;
+  color: #f0f0f0;
+  min-height: 100vh;
+  overflow-x: hidden;
+  position: relative;
+}
+
+/* ── Film grain overlay ── */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.35;
+}
+
+/* ── Shared keyframes ── */
+@keyframes cur-blink    { 0%,100%{opacity:1}   50%{opacity:0}   }
+@keyframes scanmove     { 0%,100%{top:20%;opacity:.4} 50%{top:75%;opacity:.7} }
+@keyframes status-pulse { 0%,100%{opacity:1}   50%{opacity:.2}  }
+@keyframes dot-blink    { 0%,80%,100%{opacity:1} 85%{opacity:.2} }
+/* Lock scan line — used in HeroSection */
+@keyframes lscan {
+  0%   { top: 5%;  opacity: 0; }
+  10%  { opacity: 1; }
+  90%  { opacity: 1; }
+  100% { top: 95%; opacity: 0; }
 }
